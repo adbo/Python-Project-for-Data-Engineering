@@ -1,6 +1,6 @@
 # Python-Project-for-Data-Engineering
 
-Objectives¶
+Objectives
 In this final part you will:
 
 Run the ETL process
